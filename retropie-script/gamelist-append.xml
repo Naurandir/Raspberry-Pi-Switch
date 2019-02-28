@@ -1,0 +1,20 @@
+	<game id="" source="">
+		<path>./Switch-Desktop-Mode.sh</path>
+		<name>Switch Mode: Desktop</name>
+		<desc>Switch the Pi-Switch to desktop mode in order to use on TV with high resolution and audio via hdmi</desc>
+		<image>./images/switch-mode-desktop.png</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Switch-LCD-Mode.sh</path>
+		<name>Switch Mode: LCD</name>
+		<desc>Switch the Pi-Switch to lcd mode in order to use as portable gaming device with audio via 3.5mm jack</desc>
+		<image>./images/switch-mode-lcd.png</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
