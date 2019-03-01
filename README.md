@@ -19,8 +19,8 @@ Also just copy them into the folder images in ports (if it dont exist create it 
 
 # Boot Config
 There are two files on this repository added to the boot-config
-* lcd-config.txt --> consist of the lcd config
-* tv-config.txt --> consist of the tv config
+* config-lcdg.txt: consist of the lcd config
+* config-desktop.txt: consist of the tv config
 The scripts will always copy the lcd/tv-config.txt to config.txt and overrides it.
 Feel free to change settings for lcd/tv as you like, but always in the correct config.txt.
 NEVER the original config.txt because it is always overwritten by the lcd/tv-config.txt!
